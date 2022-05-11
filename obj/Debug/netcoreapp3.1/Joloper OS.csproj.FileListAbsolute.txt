@@ -1,0 +1,13 @@
+C:\Users\super\OneDrive\Desktop\Joloper\Joloper OS\bin\Debug\netcoreapp3.1\Joloper OS.exe
+C:\Users\super\OneDrive\Desktop\Joloper\Joloper OS\bin\Debug\netcoreapp3.1\Joloper OS.deps.json
+C:\Users\super\OneDrive\Desktop\Joloper\Joloper OS\bin\Debug\netcoreapp3.1\Joloper OS.runtimeconfig.json
+C:\Users\super\OneDrive\Desktop\Joloper\Joloper OS\bin\Debug\netcoreapp3.1\Joloper OS.runtimeconfig.dev.json
+C:\Users\super\OneDrive\Desktop\Joloper\Joloper OS\bin\Debug\netcoreapp3.1\Joloper OS.dll
+C:\Users\super\OneDrive\Desktop\Joloper\Joloper OS\bin\Debug\netcoreapp3.1\Joloper OS.pdb
+C:\Users\super\OneDrive\Desktop\Joloper\Joloper OS\obj\Debug\netcoreapp3.1\Joloper OS.csprojAssemblyReference.cache
+C:\Users\super\OneDrive\Desktop\Joloper\Joloper OS\obj\Debug\netcoreapp3.1\Joloper OS.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Desktop\Joloper\Joloper OS\obj\Debug\netcoreapp3.1\Joloper OS.AssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\Joloper\Joloper OS\obj\Debug\netcoreapp3.1\Joloper OS.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Desktop\Joloper\Joloper OS\obj\Debug\netcoreapp3.1\Joloper OS.dll
+C:\Users\super\OneDrive\Desktop\Joloper\Joloper OS\obj\Debug\netcoreapp3.1\Joloper OS.pdb
+C:\Users\super\OneDrive\Desktop\Joloper\Joloper OS\obj\Debug\netcoreapp3.1\Joloper OS.genruntimeconfig.cache
